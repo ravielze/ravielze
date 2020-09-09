@@ -7,12 +7,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ravielze-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravielze/)](https://www.linkedin.com/in/ravielze/)
 [![Medium Badge](https://img.shields.io/badge/-@ravielz-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@ravielz)](https://medium.com/@ravielz)
 # 👋 Hello
-Hello, I'm Steven Nataniel, or you may call me *viel*. I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Informatics Technology. I love experimenting with new technologies, learning computer science especially in software engineering and building projects.
+Hello, I'm Steven Nataniel, or you may call me *viel*. 
+I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Informatics Technology. 
+I love experimenting with new technologies, learning computer science especially in software engineering and building projects.
 
 # 💻 Languages, Technologies & Frameworks
 📄 **Languages** : Java, Python, C++/C, Golang, C#, HTML, CSS, Javascript
+
 💡 **Frameworks** : Django, Spring MVC, Express 
+
 💾 **Technologies** : Git, MySQL, MongoDB, Redis, PostgreSQL, Docker, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino)
+
 👀 *Currently Exploring* : ReactJs, React Native
 
 # 📖 Stats
