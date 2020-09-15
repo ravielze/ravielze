@@ -14,9 +14,9 @@ I love experimenting with new technologies, learning computer science especially
 # 💻 Languages, Technologies & Frameworks
 📄 **Languages** : Java, Python, C++/C, Golang, C#, HTML, CSS, Javascript
 
-💡 **Frameworks** : Django, Spring MVC, Express 
+💡 **Frameworks** : Django, Spring MVC, Express, Golang: Echo
 
-💾 **Technologies** : Git, MySQL, MongoDB, Redis, PostgreSQL, Docker, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino)
+💾 **Technologies** : Git, MySQL, MongoDB, Redis, PostgreSQL, Docker, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino), Gorm, Hibernate
 
 👀 *Currently Exploring* : ReactJs, React Native
 
