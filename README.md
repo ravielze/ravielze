@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ravielze&color=brightgreen)
+
 **💬 Social**:  
 [![LINE BAdge](https://img.shields.io/badge/-vL-brightgreen?style=flat&logo=LINE&logoColor=white&link=https://line.me/ti/p/N06LsDwHg4)](https://line.me/ti/p/N06LsDwHg4)
 [![Gmail Badge](https://img.shields.io/badge/-Steven_Nataniel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:13519002@std.stei.itb.ac.id)](mailto:13519002@std.stei.itb.ac.id)
@@ -12,16 +14,16 @@ I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) 
 I love experimenting with new technologies, learning computer science especially in software engineering and building projects.
 
 # 💻 Languages, Technologies & Frameworks
-📄 **Languages** : Java, Python, C++/C, Golang, C#, HTML, CSS, Javascript
+📄 **Languages** : Golang, Java, Python, C++/C, C#, HTML, CSS, Javascript
 
-💡 **Frameworks** : Django, Spring MVC, Express, Echo Go, Gin Gonic
-
-💾 **Technologies** : Git, MySQL, MongoDB, Redis, PostgreSQL, Docker, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino), Gorm, Hibernate
+💾 **Technologies** : Django, Spring MVC, ExpressJS, Echo Go, Gin Gonic, VueJS, ReactJS, React Native, Flask Git, MySQL, MongoDB, Redis, PostgreSQL, Docker & Docker Compose, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino), Gorm, Hibernate, Uberdig, SocketIO etc.
 
 👀 *Currently Exploring* : Cassandra, RabbitMQ
 
 # 📖 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravielze&show_icons=true&theme=dark&hide=issues,stars&include_all_commits=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravielze&margin-w=15&column=8&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div>
     <a href="https://github.com/ravielze/ravielze"><img align="center" width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravielze&layout=compact&hide=css,html&card_width=300&theme=dark" /></a>
 </div>
