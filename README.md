@@ -13,12 +13,8 @@ Hello, I'm Steven Nataniel, or you may call me *viel*.
 I'm currently an Undergraduate Student at Bandung Institute of Technology (ITB) majoring in Informatics Technology. 
 I love experimenting with new technologies, learning computer science especially in software engineering and building projects.
 
-# 💻 Languages, Technologies & Frameworks
-📄 **Languages** : Golang, Java, Python, C++/C, C#, HTML, CSS, Javascript
-
-💾 **Technologies** : Django, Spring MVC, ExpressJS, Echo Go, Gin Gonic, VueJS, ReactJS, React Native, Flask Git, MySQL, MongoDB, Redis, PostgreSQL, Docker & Docker Compose, Cloud Server (AWS/OVH), Microcontroller (Raspbery PI/Arduino), Gorm, Hibernate, Uberdig, SocketIO etc.
-
-👀 *Currently Exploring* : Cassandra, RabbitMQ
+# 💻 Languages
+📄 **Languages** : Golang, Java, Kotlin, Javascript, Typescript, Dart, Python, C++/C, C#
 
 # 📖 Stats
 
